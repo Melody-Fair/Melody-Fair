@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Melody-Fair&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/Melody-Fair/"/>
+  <updated>2017-04-05T09:31:37.311Z</updated>
+  <id>https://github.com/Melody-Fair/</id>
+  
+  <author>
+    <name>Melody-Fair</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>胡诌乱侃</title>
+    <link href="https://github.com/Melody-Fair/%E8%83%A1%E9%82%B9%E4%B9%B1%E4%BE%83/"/>
+    <id>https://github.com/Melody-Fair/胡邹乱侃/</id>
+    <published>2017-04-04T09:07:19.471Z</published>
+    <updated>2017-04-05T09:31:37.311Z</updated>
+    
+    <summary type="html">
+    
+      欢迎来访，这是我的第一篇博客.
+    
+    </summary>
+    
+      <category term="Blogs" scheme="https://github.com/Melody-Fair/categories/Blogs/"/>
+    
+    
+      <category term="闲聊" scheme="https://github.com/Melody-Fair/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+</feed>
