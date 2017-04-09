@@ -32,20 +32,21 @@
 <hr>
 <blockquote>
 <ul>
-<li>github的部署</li>
+<li><strong>github的部署</strong></li>
 </ul>
 </blockquote>
 <hr>
-<p>1.申请github的账号 <a href="https://github.com/">https://github.com/</a><br>2.建立仓库，注意仓库名要与你的GitHub一致，如我的GitHub名是Melody-Fair，那么我的仓库名就是Melody-Fair.github.io。<br>3.在仓库的settings里设置github Pages。<br>4.在hexo的文件夹下的_config.yml文件下配置：<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repo: git@github.com:Melody-Fair/Melody-Fair.git </div><div class="line">  branch: master</div></pre></td></tr></table></figure></p>
+<p>1.申请github的账号 <a href="https://github.com/">https://github.com/</a><br>2.建立仓库，注意仓库名要与你的GitHub一致，如我的GitHub名是Melody-Fair，那么我的仓库名就是Melody-Fair.github.io。<br>3.在仓库的settings里设置github Pages。</p>
 <p>配置完成。</p>
 <hr>
 <blockquote>
 <ul>
-<li>部署hexo</li>
+<li><strong>部署hexo</strong></li>
 </ul>
 </blockquote>
 <hr>
-<p>1、hexo g   生成部署文件<br>2、hexo d   进行相关部署<br>部署完成就能通过你的github进行访问了</p>
+<p>1.在hexo的文件夹下的_config.yml文件下配置：<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repo: git@github.com:Melody-Fair/Melody-Fair.git </div><div class="line">  branch: master</div></pre></td></tr></table></figure></p>
+<p>2、hexo g   生成部署文件<br>3、hexo d   进行相关部署<br>部署完成就能通过你的github进行访问了</p>
 ]]></content>
       
         <categories>
