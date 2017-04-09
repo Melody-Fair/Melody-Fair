@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Melody-Fair/"/>
-  <updated>2017-04-05T09:31:37.311Z</updated>
+  <updated>2017-04-09T10:20:18.313Z</updated>
   <id>https://github.com/Melody-Fair/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客搭建教程</title>
+    <link href="https://github.com/Melody-Fair/Hexo+Github%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/Melody-Fair/Hexo+Github搭建自己的博客/</id>
+    <published>2017-04-09T10:17:16.124Z</published>
+    <updated>2017-04-09T10:20:18.313Z</updated>
+    
+    <summary type="html">
+    
+      学习记录比较简要，不太完整，只能做个参考，如果有具体问题，可以随时联系我或者直接百度。
+    
+    </summary>
+    
+      <category term="Blogs" scheme="https://github.com/Melody-Fair/categories/Blogs/"/>
+    
+    
+      <category term="学习记录" scheme="https://github.com/Melody-Fair/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>胡诌乱侃</title>

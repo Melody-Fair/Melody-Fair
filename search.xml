@@ -4,6 +4,66 @@
   
     
     <entry>
+      <title><![CDATA[博客搭建教程]]></title>
+      <url>https://github.com/Melody-Fair/Hexo+Github%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
+      <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>安装Git</strong> </li>
+</ul>
+</blockquote>
+<hr>
+<p> 1、下载地址   <a href="https://git-for-windows.github.io/" target="_blank" rel="external">https://git-for-windows.github.io/</a>  （版本不限）<br> 2、安装选择<br>    一路下一步，直到选择页面如图所示![Git安装选择][1]<br> 3、测试是否安装完毕<br>    在电脑桌面右键包含git bash here。</p>
+<hr>
+<blockquote>
+<ul>
+<li><strong>安装node.js</strong></li>
+</ul>
+</blockquote>
+<hr>
+<p>1、下载地址：<a href="https://nodejs.org/en/" target="_blank" rel="external">https://nodejs.org/en/</a><br>2、安装一路下一波即可，路径没有要求（目录尽量中文）</p>
+<hr>
+<blockquote>
+<ul>
+<li><strong>安装hexo并初始化</strong></li>
+</ul>
+</blockquote>
+<hr>
+<p>1、利用 npm 命令即可安装。在任意位置点击鼠标右键，选择Git Bash<br>2、输入命令：npm install -g hexo<br>3、在E盘创建hexo文件夹（e:/hexo） 路径-目录名自己随意。<br>4、在hexo文件夹下，右键运行Git Bash，输入命令：hexo init<br>5、初始化完成，可以选择配置_config.yml文件。具体配置可查百度。<br>6、在hexo文件夹下，右键运行Git Bash，执行 hexo g和hexo s，使用控制台给出的地址访问自己的博客。</p>
+<hr>
+<blockquote>
+<ul>
+<li>github的部署</li>
+</ul>
+</blockquote>
+<hr>
+<p>1.申请github的账号 <a href="https://github.com/">https://github.com/</a><br>2.建立仓库，注意仓库名要与你的GitHub一致，如我的GitHub名是Melody-Fair，那么我的仓库名就是Melody-Fair.github.io。<br>3.在仓库的settings里设置github Pages。<br>4.在hexo的文件夹下的_config.yml文件下配置：<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repo: git@github.com:Melody-Fair/Melody-Fair.git </div><div class="line">  branch: master</div></pre></td></tr></table></figure></p>
+<p>配置完成。</p>
+<hr>
+<blockquote>
+<ul>
+<li>部署hexo</li>
+</ul>
+</blockquote>
+<hr>
+<p>1、hexo g   生成部署文件<br>2、hexo d   进行相关部署<br>部署完成就能通过你的github进行访问了</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Blogs </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 学习记录 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[胡诌乱侃]]></title>
       <url>https://github.com/Melody-Fair/%E8%83%A1%E9%82%B9%E4%B9%B1%E4%BE%83/</url>
       <content type="html"><![CDATA[<p>第一天先给大家来个自我介绍咯<br>本人郝姓，程序驼一只；爱好广泛，并不呆板。<br>素爱玩乐，也喜吃喝；无甚理想，只求平安。<br>我虽爱钱，但是健康还是第一位的。所以呢~<br>虽然我是年轻人，但是也要给你们这些老年人提提建议，<br>第一天先给大家来个自我介绍咯<br>本人郝姓，程序驼一只；爱好广泛，并不呆板。<br>素爱玩乐，也喜吃喝；无甚理想，只求平安。<br>我虽爱钱，但是健康还是第一位的。所以呢~<br>虽然我是年轻人，但是也要给你们这些老年人提提建议，<br>没事儿别穷待着，多出去溜溜弯，跟老太太学学广场舞还是不错的。</p>
