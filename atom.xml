@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Melody-Fair/"/>
-  <updated>2017-12-26T03:19:33.997Z</updated>
+  <updated>2017-12-26T03:19:22.391Z</updated>
   <id>https://github.com/Melody-Fair/</id>
   
   <author>
@@ -14,27 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>虚拟机部署（一） VMware14虚拟机安装</title>
-    <link href="https://github.com/Melody-Fair/%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%EF%BC%88%E4%B8%80%EF%BC%89%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%AE%89%E8%A3%85/"/>
-    <id>https://github.com/Melody-Fair/项目部署（一）虚拟机的安装/</id>
-    <published>2017-12-25T16:00:00.000Z</published>
-    <updated>2017-12-26T03:19:33.997Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;因为本人是Windows系统爱好者，mac系统就不进行讲解了，请大家参照别的博客，谢谢。&lt;/p&gt;
-&lt;p&gt;###环境准备&lt;br&gt;安装VMware1464位链接：&lt;a href=&quot;https://pan.baidu.com/s/1i4G8HLz&quot; target=&quot;_blank&quot;
-    
-    </summary>
-    
-      <category term="虚拟机" scheme="https://github.com/Melody-Fair/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
-    
-    
-      <category term="学习记录" scheme="https://github.com/Melody-Fair/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-    
-  </entry>
   
   <entry>
     <title>数据库序列</title>
@@ -51,6 +30,27 @@
     </summary>
     
       <category term="数据库（ORACLE）" scheme="https://github.com/Melody-Fair/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%88ORACLE%EF%BC%89/"/>
+    
+    
+      <category term="学习记录" scheme="https://github.com/Melody-Fair/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟机部署（一） VMware14虚拟机安装</title>
+    <link href="https://github.com/Melody-Fair/%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%EF%BC%88%E4%B8%80%EF%BC%89%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    <id>https://github.com/Melody-Fair/项目部署（一）虚拟机的安装/</id>
+    <published>2017-12-25T16:00:00.000Z</published>
+    <updated>2017-12-26T03:19:33.997Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因为本人是Windows系统爱好者，mac系统就不进行讲解了，请大家参照别的博客，谢谢。&lt;/p&gt;
+&lt;p&gt;###环境准备&lt;br&gt;安装VMware1464位链接：&lt;a href=&quot;https://pan.baidu.com/s/1i4G8HLz&quot; target=&quot;_blank&quot;
+    
+    </summary>
+    
+      <category term="虚拟机" scheme="https://github.com/Melody-Fair/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
     
     
       <category term="学习记录" scheme="https://github.com/Melody-Fair/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
