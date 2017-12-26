@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Melody-Fair/"/>
-  <updated>2017-12-26T03:19:22.391Z</updated>
+  <updated>2017-12-26T03:19:33.997Z</updated>
   <id>https://github.com/Melody-Fair/</id>
   
   <author>
@@ -14,27 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>数据库序列</title>
-    <link href="https://github.com/Melody-Fair/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BA%8F%E5%88%97/"/>
-    <id>https://github.com/Melody-Fair/数据库序列/</id>
-    <published>2017-12-25T16:00:00.000Z</published>
-    <updated>2017-12-26T03:19:22.391Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;数据库序列&quot;&gt;&lt;a href=&quot;#数据库序列&quot; class=&quot;headerlink&quot; title=&quot;数据库序列&quot;&gt;&lt;/a&gt;数据库序列&lt;/h2&gt;&lt;p&gt;在ORACLE数据库中，什么是序列呢？它的用途是什么？  &lt;/p&gt;
-&lt;p&gt;序列其实是序列号生成器，可以为表中的行自动
-    
-    </summary>
-    
-      <category term="数据库（ORACLE）" scheme="https://github.com/Melody-Fair/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%88ORACLE%EF%BC%89/"/>
-    
-    
-      <category term="学习记录" scheme="https://github.com/Melody-Fair/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-    
-  </entry>
   
   <entry>
     <title>虚拟机部署（一） VMware14虚拟机安装</title>
@@ -51,6 +30,27 @@
     </summary>
     
       <category term="虚拟机" scheme="https://github.com/Melody-Fair/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+    
+      <category term="学习记录" scheme="https://github.com/Melody-Fair/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据库序列</title>
+    <link href="https://github.com/Melody-Fair/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BA%8F%E5%88%97/"/>
+    <id>https://github.com/Melody-Fair/数据库序列/</id>
+    <published>2017-12-25T16:00:00.000Z</published>
+    <updated>2017-12-26T03:19:22.391Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;数据库序列&quot;&gt;&lt;a href=&quot;#数据库序列&quot; class=&quot;headerlink&quot; title=&quot;数据库序列&quot;&gt;&lt;/a&gt;数据库序列&lt;/h2&gt;&lt;p&gt;在ORACLE数据库中，什么是序列呢？它的用途是什么？  &lt;/p&gt;
+&lt;p&gt;序列其实是序列号生成器，可以为表中的行自动
+    
+    </summary>
+    
+      <category term="数据库（ORACLE）" scheme="https://github.com/Melody-Fair/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%88ORACLE%EF%BC%89/"/>
     
     
       <category term="学习记录" scheme="https://github.com/Melody-Fair/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
